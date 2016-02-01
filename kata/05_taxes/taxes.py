@@ -4,7 +4,7 @@
 #  taxes(1.00) would return:
 #   {'amount': '1.00$', 'total': '1.15$', 'gst': '0.05$', 'qst': '0.10$'} 
 #  - GST is currently at 5%
-#  - QST is currently 9.9975%
+#  - QST is currently 9.975%
 # The amount will always be positive and will only use int or float.
 
 def taxes(amount):

@@ -1,6 +1,6 @@
-FORMATION PYTHON 101
-====================
-The code snippets way
+===============================
+PYT-01 - INTRODUCTION TO PYTHON
+===============================
 
 
 Table of Contents
