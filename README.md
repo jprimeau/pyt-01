@@ -1,4 +1,4 @@
-# Python 101 Course (PYT-101) - Introduction to Python
+# Python 101 Course (PYT-01) - Introduction to Python
 
 The only requirements are Python 2.7 and pytest. However, it is strongly
 suggested to use virtualenv to manage required packages.
