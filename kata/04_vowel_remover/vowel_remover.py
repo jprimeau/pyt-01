@@ -2,7 +2,7 @@
 # in a given string.
 # Examples
 #  - shortcut("banana") --> bnn
-#  - shortcut("goodbye")  --> gdby
+#  - shortcut("goodbye")  --> gdb
 # Don't worry about uppercase vowels. 'y' is also considered a vowel.
 
 def shortcut(s):
